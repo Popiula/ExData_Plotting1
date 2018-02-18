@@ -8,7 +8,7 @@ Constructed plots:
 ### Plot 1
 
 
-![plot 1](figure/plo1.png) 
+![plot 1](figure/plot1.png) 
 
 
 ### Plot 2
