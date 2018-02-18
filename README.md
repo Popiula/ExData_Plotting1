@@ -3,6 +3,30 @@
 I have generated a new file that only contains the data we need for the asignment.
 It is called tidy.txt and it is in the repository.
 
+Constructed plots:
+
+### Plot 1
+
+
+![plot 1](figure/plo1.png) 
+
+
+### Plot 2
+
+![plot 2](figure/plot2.png) 
+
+
+### Plot 3
+
+![plot 3](figure/plot3.png) 
+
+
+### Plot 4
+
+![plot 4](figure/plot4.png) 
+
+
+
 
 # Original readme.MD:
 
