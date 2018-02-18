@@ -1,3 +1,11 @@
+## New comments
+
+I have generated a new file that only contains the data we need for the asignment.
+It is called tidy.txt and it is in the repository.
+
+
+# Original readme.MD:
+
 ## Introduction
 
 This assignment uses data from
